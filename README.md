@@ -22,29 +22,10 @@ To compile `pbzx`, do
   [source]: http://www.tonymacx86.com/general-help/135458-pbzx-stream-parser.html
   [Homebrew]: http://brew.sh/
 
-## Changelog
-
-__v1.0.2__
-
-- Add `-v` flag to print version of `pbzx`
-
-__v1.0.1__
-
-- Support unpacking from stdin and and plain pbzx files (see new command-line
-  parameters)
-- Add command-line flags
-    - Flag `-` specifies reading a pbzx file from stdin (currently does
-      not support xar input)
-    - Flag `-n` specifies that the file is a pbzx instead of a xar file
-    - Flag `-h` shows usage and some information, then exits
-
-__v1.0.0__
-
-- Initial version with exact code from [source].
-
 ## License
 
 Copyright (C) 2017  Niklas Rosenstein
+#
 Copyright (C) 2014  PHPdev32
 
 This program is free software: you can redistribute it and/or modify
