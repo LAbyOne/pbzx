@@ -14,13 +14,6 @@ To compile `pbzx`, do
 
     clang -llzma -lxar -I /usr/local/include pbzx.c -o pbzx
 
-> If `<lzma.h>` or `<xar/xar.h>` are missing, install them with [Homebrew]
-> using
->
->     brew install xz && brew link xz
-
-  [source]: http://www.tonymacx86.com/general-help/135458-pbzx-stream-parser.html
-  [Homebrew]: http://brew.sh/
 
 ## License
 
