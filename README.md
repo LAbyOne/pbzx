@@ -25,9 +25,9 @@ To compile `pbzx`, do
 ## License
 
 Copyright (C) 2017  Niklas Rosenstein
-#
-Copyright (C) 2014  PHPdev32
 
+Copyright (C) 2014  PHPdev32
+#
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
